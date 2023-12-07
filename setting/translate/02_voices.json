@@ -131,7 +131,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "EDO~",
-      "en-US": "everyone~",
+      "en-US": "EDO~",
       "ja-JP": "えど～"
     },
     "usePicture": {
@@ -152,7 +152,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "DOGANA~",
-      "en-US": "everyone~",
+      "en-US": "What do you think~",
       "ja-JP": "どうがな～"
     },
     "usePicture": {
@@ -173,7 +173,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "DEWANE~",
-      "en-US": "everyone~",
+      "en-US": "DEWANE~",
       "ja-JP": "でわね～"
     },
     "usePicture": {
@@ -194,8 +194,8 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "最喜歡了~",
-      "en-US": "大好きです",
-      "ja-JP": "皆~"
+      "en-US": "I love it~",
+      "ja-JP": "大好きです~"
     },
     "usePicture": {
       "zh-TW": "myr400.jpg",
@@ -215,7 +215,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "很快捏~",
-      "en-US": "everyone~",
+      "en-US": "It's fast~",
       "ja-JP": "早い ね~"
     },
     "usePicture": {
@@ -236,7 +236,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "HAYAYA~",
-      "en-US": "everyone~",
+      "en-US": "HAYAYA~",
       "ja-JP": "はやや~"
     },
     "usePicture": {
@@ -257,7 +257,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "HYO~",
-      "en-US": "everyone~",
+      "en-US": "HYO~",
       "ja-JP": "ひょ～"
     },
     "usePicture": {
@@ -278,7 +278,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "很好捏~",
-      "en-US": "everyone~",
+      "en-US": "It's good~",
       "ja-JP": "いいね~"
     },
     "usePicture": {
@@ -299,7 +299,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "昨天的~",
-      "en-US": "everyone~",
+      "en-US": "Yesterday~",
       "ja-JP": "昨日の~"
     },
     "usePicture": {
@@ -320,7 +320,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "咕嚕咕嚕~",
-      "en-US": "everyone~",
+      "en-US": "KURUKURU~",
       "ja-JP": "くるくる~"
     },
     "usePicture": {
@@ -341,7 +341,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "SOSOSOSO~",
-      "en-US": "everyone~",
+      "en-US": "SOSOSOSO~",
       "ja-JP": "そそそそ~"
     },
     "usePicture": {
@@ -362,7 +362,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "嘿修",
-      "en-US": "everyone~",
+      "en-US": "HEYSHOW~",
       "ja-JP": "へしょ~"
     },
     "usePicture": {
@@ -383,7 +383,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "耶 嘿咻~",
-      "en-US": "everyone~",
+      "en-US": "YA HEYSHOW~",
       "ja-JP": "いえ　へえしょ~"
     },
     "usePicture": {
@@ -404,7 +404,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "耶修",
-      "en-US": "everyone~",
+      "en-US": "A SHOW~",
       "ja-JP": "いえーしょ"
     },
     "usePicture": {
@@ -425,7 +425,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "這個",
-      "en-US": "everyone~",
+      "en-US": "This~",
       "ja-JP": "その~"
     },
     "usePicture": {
@@ -446,7 +446,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "好開心",
-      "en-US": "ANO NANI~",
+      "en-US": "I am happy~",
       "ja-JP": "嬉しい～"
     },
     "usePicture": {
@@ -467,7 +467,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "今天呀~",
-      "en-US": "ANO NANI~",
+      "en-US": "Today~",
       "ja-JP": "今日は～"
     },
     "usePicture": {
@@ -488,7 +488,7 @@
     "date": "2023-12-07",
     "translate": {
       "zh-TW": "嗚嘿咻~",
-      "en-US": "ANO NANI~",
+      "en-US": "UISHO~",
       "ja-JP": "うーしょ"
     },
     "usePicture": {
