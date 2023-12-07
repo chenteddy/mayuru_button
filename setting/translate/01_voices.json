@@ -27,7 +27,7 @@
     "translate": {
       "zh-TW": "謝謝你送的茶~~",
       "en-US": "ANO NANI~",
-      "ja-JP": "あの なに～"
+      "ja-JP": "お茶ありがとう～"
     },
     "usePicture": {
       "zh-TW": "myr400.jpg",
@@ -48,7 +48,7 @@
     "translate": {
       "zh-TW": "都吃得下呦~",
       "en-US": "ANO NANI~",
-      "ja-JP": "あの なに～"
+      "ja-JP": "食べ出るよ～"
     },
     "usePicture": {
       "zh-TW": "myr400.jpg",
@@ -56,6 +56,27 @@
       "ja-JP": "myr400.jpg"
     },
     "category": "TC",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "nice item23",
+    "path": "nice item.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "Nice item",
+      "en-US": "Nice continus coin CHA-LIN",
+      "ja-JP": "ナイス・アイテム "
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "nice",
     "mark": {
       "title": "",
       "time": "",

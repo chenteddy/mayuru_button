@@ -6,7 +6,7 @@
     "translate": {
       "zh-TW": "晚安 哼哼~",
       "en-US": "Nice continus coin CHA-LIN",
-      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
+      "ja-JP": "こんにちは　ふふ"
     },
     "usePicture": {
       "zh-TW": "myr400.jpg",
@@ -27,7 +27,7 @@
     "translate": {
       "zh-TW": "不安定嚕哼哼",
       "en-US": "Nice continus coin CHA-LIN",
-      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
+      "ja-JP": "不安定るふふ"
     },
     "usePicture": {
       "zh-TW": "myr400.jpg",
@@ -48,7 +48,7 @@
     "translate": {
       "zh-TW": "呼哼哼",
       "en-US": "Nice continus coin CHA-LIN",
-      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
+      "ja-JP": "ふふふ～"
     },
     "usePicture": {
       "zh-TW": "myr400.jpg",
@@ -69,7 +69,7 @@
     "translate": {
       "zh-TW": "嗯哼哼",
       "en-US": "Nice continus coin CHA-LIN",
-      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
+      "ja-JP": "うふふ～"
     },
     "usePicture": {
       "zh-TW": "myr400.jpg",
@@ -90,7 +90,7 @@
     "translate": {
       "zh-TW": "謝謝 哼哼",
       "en-US": "Nice continus coin CHA-LIN",
-      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
+      "ja-JP": "ありがとう　ふふ"
     },
     "usePicture": {
       "zh-TW": "myr400.jpg",
@@ -111,7 +111,7 @@
     "translate": {
       "zh-TW": "Love you 哼哼",
       "en-US": "Nice continus coin CHA-LIN",
-      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
+      "ja-JP": "Love you　ふふ"
     },
     "usePicture": {
       "zh-TW": "myr400.jpg",
@@ -132,7 +132,28 @@
     "translate": {
       "zh-TW": "請多指教捏 哼哼",
       "en-US": "Nice continus coin CHA-LIN",
-      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
+      "ja-JP": "よろしくね　ふふ"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "fufu",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "可愛對吧 恩亨",
+    "path": "可愛對吧 恩亨.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "可愛對吧 恩亨~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "かわいいね　ふふ～"
     },
     "usePicture": {
       "zh-TW": "myr400.jpg",
