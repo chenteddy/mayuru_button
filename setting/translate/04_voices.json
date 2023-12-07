@@ -1,6 +1,6 @@
 [
   {
-    "name": "nicecontinuscoinchalin",
+    "name": "nicecontinuscoinchalin2",
     "path": "nicecontinuscoinchalin.mp3",
     "date": "2023-12-07",
     "translate": {
@@ -13,7 +13,7 @@
       "en-US": "myr400.jpg",
       "ja-JP": "myr400.jpg"
     },
-    "category": "TC",
+    "category": "nice",
     "mark": {
       "title": "",
       "time": "",
@@ -21,20 +21,20 @@
     }
   },
   {
-    "name": "o茶ariado",
-    "path": "o茶ariado.mp3",
+    "name": "nice item",
+    "path": "nice item.mp3",
     "date": "2023-12-07",
     "translate": {
-      "zh-TW": "謝謝你送的茶~~",
-      "en-US": "ANO NANI~",
-      "ja-JP": "あの なに～"
+      "zh-TW": "Nice item",
+      "en-US": "Nice continus coin CHA-LIN",
+      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
     },
     "usePicture": {
       "zh-TW": "myr400.jpg",
       "en-US": "myr400.jpg",
       "ja-JP": "myr400.jpg"
     },
-    "category": "TC",
+    "category": "nice",
     "mark": {
       "title": "",
       "time": "",
@@ -42,20 +42,20 @@
     }
   },
   {
-    "name": "tabederu yo212",
-    "path": "tabederu yo.mp3",
+    "name": "nice初comment",
+    "path": "nice初comment.mp3",
     "date": "2023-12-07",
     "translate": {
-      "zh-TW": "都吃得下呦~",
-      "en-US": "ANO NANI~",
-      "ja-JP": "あの なに～"
+      "zh-TW": "Nice初comment",
+      "en-US": "Nice continus coin CHA-LIN",
+      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
     },
     "usePicture": {
       "zh-TW": "myr400.jpg",
       "en-US": "myr400.jpg",
       "ja-JP": "myr400.jpg"
     },
-    "category": "TC",
+    "category": "nice",
     "mark": {
       "title": "",
       "time": "",

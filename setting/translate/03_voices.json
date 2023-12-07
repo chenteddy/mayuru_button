@@ -1,0 +1,422 @@
+[
+  {
+    "name": "smui_ne",
+    "path": "smuine.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "有點冷捏~",
+      "en-US": "It's cold NE~",
+      "ja-JP": "寒ね~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "anonani",
+    "path": "anonani.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "那個什麼~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "senbu_sa",
+    "path": "全部saa.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "全部sa~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "大丈夫 kana",
+    "path": "大丈夫kana.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "大丈夫 kana~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "可愛對吧 恩亨",
+    "path": "可愛對吧 恩亨.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "可愛對吧 恩亨~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "結構ne",
+    "path": "結構ne.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "結構ne~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "heart i bai",
+    "path": "heart i bai.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "好多愛心~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "nanikora",
+    "path": "nanikora.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "那是什麼~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "oishi yone",
+    "path": "oishi yone.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "好吃吧~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "tabederu yo",
+    "path": "tabederu yo.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "都吃得下呦~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "mayuru yogada",
+    "path": "mayuru yogada.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "まゆる 太好了~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "new mayuru",
+    "path": "new mayuru.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "NEW まゆる",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "oshiedene22",
+    "path": "oshiedene.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "告訴我吧ね~",
+      "en-US": "everyone~",
+      "ja-JP": "皆~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "sukoine e~",
+    "path": "sukoine e~.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "很厲害捏~ 欸?!",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "金曜日",
+    "path": "金曜日.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "星期五",
+      "en-US": "Friday",
+      "ja-JP": "金曜日"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "頑張de",
+    "path": "頑張de.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "加油~!",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "tanoshigadayode",
+    "path": "tanoshigadayode.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "很開心 DAYODE~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "yogadayo",
+    "path": "yogadayo.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "太好了 DAYO~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "今天一天辛苦了",
+    "path": "今天一天辛苦了.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "今天一天辛苦了",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "tanz no",
+    "path": "tanz no.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "Tanz醬的~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  }
+]

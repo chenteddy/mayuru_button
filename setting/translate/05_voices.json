@@ -1,0 +1,191 @@
+[
+  {
+    "name": "ne(長)",
+    "path": "ne(長).mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "ね(長)",
+      "en-US": "Nice continus coin CHA-LIN",
+      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "ne(平淡)",
+    "path": "ne(平淡).mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "ね(平淡)",
+      "en-US": "Nice continus coin CHA-LIN",
+      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "ne mosa",
+    "path": "ne mosa.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "ね もさ",
+      "en-US": "Nice continus coin CHA-LIN",
+      "ja-JP": "ナイス・コンティナズ・コイン・チャー・リン"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "ne mochododa",
+    "path": "ne mojododa.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "ね 等一下啦",
+      "en-US": "Nice continus coin CHA-LIN",
+      "ja-JP": "ね もちょっと だ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "hayai ne32",
+    "path": "hayai ne.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "很快ね~",
+      "en-US": "everyone~",
+      "ja-JP": "皆~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "iine32",
+    "path": "iine.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "很好ね~",
+      "en-US": "everyone~",
+      "ja-JP": "皆~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "oshiedene",
+    "path": "oshiedene.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "告訴我吧ね~",
+      "en-US": "everyone~",
+      "ja-JP": "皆~"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "sukoine e~2",
+    "path": "sukoine e~.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "很厲害捏~ 欸?!",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "今ne",
+    "path": "今ne.mp3",
+    "date": "2023-12-07",
+    "translate": {
+      "zh-TW": "今天ね~",
+      "en-US": "ANO NANI~",
+      "ja-JP": "あの なに～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "ne",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  }
+]

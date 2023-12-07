@@ -1,10 +1,51 @@
 [
   {
-    "name": "名言",
+    "name": "可愛聲音",
     "translate": {
-      "zh-TW": "猫猫名言~",
-      "en-US": "Witticisms~",
-      "ja-JP": "a猫猫名言~"
+      "zh-TW": "可愛聲音",
+      "en-US": "Cute voice",
+      "ja-JP": "かわいい声"
+    }
+  },
+  {
+    "name": "fufu",
+    "translate": {
+      "zh-TW": "哼哼",
+      "en-US": "HMM~",
+      "ja-JP": "ふふ"
+    }
+  },
+  {
+    "name": "ne",
+    "translate": {
+      "zh-TW": "NE 系列",
+      "en-US": "NE series",
+      "ja-JP": "ね"
+    }
+  },
+  {
+    "name": "nice",
+    "translate": {
+      "zh-TW": "NICE 系列",
+      "en-US": "Nice series",
+      "ja-JP": "ナイス"
+    }
+  },
+  {
+    "name": "短句",
+    "translate": {
+      "zh-TW": "短句",
+      "en-US": "Short",
+      "ja-JP": "短い"
+    }
+  },
+  {
+    "name": "TC",
+    "translate": {
+      "zh-TW": "Twicasting",
+      "en-US": "Twicasting",
+      "ja-JP": "Twicasting"
     }
   }
+  
 ]

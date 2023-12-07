@@ -6,56 +6,56 @@
     "properties": {
       "name": {
         "type": "string",
-        "title": "语音名"
+        "title": "聲音名稱"
       },
       "path": {
         "type": "string",
-        "title": "文件名",
+        "title": "檔案名稱",
         "pattern": "[^*|\\:\"<>?/]+\\.(mp3|wav)+"
       },
       "date": {
         "type": "string",
-        "title": "更新时间",
+        "title": "更新時間",
         "format": "date"
       },
       "translate": {
         "type": "object",
-        "title": "翻译",
+        "title": "翻譯",
         "properties": {
           "zh-TW": {
             "type": "string",
-            "title": "中文翻译"
+            "title": "中文翻譯"
           },
           "en-US": {
             "type": "string",
-            "title": "英文翻译"
+            "title": "英文翻譯"
           },
           "ja-JP": {
             "type": "string",
-            "title": "日文翻译"
+            "title": "日文翻譯"
           }
         }
       },
       "category": {
         "type": "string",
-        "title": "语音分类"
+        "title": "聲音分類"
       },
       "mark": {
         "type": "object",
-        "title": "语音来源",
+        "title": "聲音來源",
         "properties": {
           "title": {
             "type": "string",
-            "title": "来源标题"
+            "title": "來源標題"
           },
           "time": {
             "type": "string",
-            "title": "所在时间",
+            "title": "時間軸",
             "pattern": "^[0-9]+(\\:[0-6][0-9]){1,2}~[0-9]+(\\:[0-6][0-9]){1,2}$"
           },
           "url": {
             "type": "string",
-            "title": "来源地址"
+            "title": "來源網址"
           }
         }
       }

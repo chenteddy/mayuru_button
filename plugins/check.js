@@ -74,31 +74,31 @@ module.exports = class Check {
         })
 
         if (categoryNotExist.length > 0) {
-          console.log(`  分类不存在(${categoryNotExist.length}):`)
+          console.log(`  分類不存在(${categoryNotExist.length}):`)
           categoryNotExist.forEach(name => {
             console.warn('  -', chalk.yellow(name))
           })
         }
         if (mp3NotExist.length > 0) {
-          console.log(`  语音不存在(${mp3NotExist.length}):`)
+          console.log(`  聲音不存在(${mp3NotExist.length}):`)
           mp3NotExist.forEach(name => {
             console.warn('  -', chalk.yellow(name))
           })
         }
         if (imgNotExist.length > 0) {
-          console.log(`  图片不存在(${imgNotExist.length}):`)
+          console.log(`  圖片不存在(${imgNotExist.length}):`)
           imgNotExist.forEach(name => {
             console.warn('  -', chalk.yellow(name))
           })
         }
         if (categoryRepeat.length > 0) {
-          console.log(`  分类name重复(${categoryRepeat.length}):`)
+          console.log(`  分類名稱重複(${categoryRepeat.length}):`)
           categoryRepeat.forEach(name => {
             console.warn('  -', chalk.yellow(name))
           })
         }
         if (nameRepeat.length > 0) {
-          console.log(`  语音name重复(${nameRepeat.length}):`)
+          console.log(`  語音名稱重複(${nameRepeat.length}):`)
           nameRepeat.forEach(name => {
             console.warn('  -', chalk.yellow(name))
           })
@@ -114,7 +114,7 @@ module.exports = class Check {
           }
         })
         if (mp3NotUse.length > 0) {
-          console.log(`  语音未被使用(${mp3NotUse.length}):`)
+          console.log(`  聲音尚未使用(${mp3NotUse.length}):`)
           mp3NotUse.forEach(name => {
             console.warn('  -', chalk.yellow(name))
           })
@@ -141,7 +141,7 @@ module.exports = class Check {
           }
         })
         if (imgNotUse.length > 0) {
-          console.log(`  图片未被使用(${imgNotUse.length}):`)
+          console.log(`  圖片尚未使用(${imgNotUse.length}):`)
           imgNotUse.forEach(name => {
             console.warn('  -', chalk.yellow(name))
           })
