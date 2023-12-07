@@ -1,0 +1,116 @@
+{
+  "i18n": true,
+  "neko_mimi": true,
+  "name": {
+    "TW": {
+      "title": "まゆる 按鈕",
+      "fullName": "まゆる 按鈕"
+    },
+    "JP": {
+      "title": "まゆる ボタン",
+      "fullName": "まゆる ボタン"
+    },
+    "EN": {
+      "title": "Mayuru Button",
+      "fullName": "Mayuru Button"
+    }
+  },
+  "readme": "<div style=\"text-align: center;font-size: 20px;\">你的麻油癮又發作了嗎？試試這個吧～你會覺得好多了！</div>",
+  "header": {
+    "icon": "img/logo.svg",
+    "lit": "https://lit.link/en/mayuru",
+    "youtube": "https://www.youtube.com/@mayuru_24",
+    "twitter": "https://twitter.com/mayuru_24"
+  },
+  "related": [],
+  "link": [
+    {
+      "background": "#000000",
+      "color": "#FFFFFF",
+      "name": "まゆる X (Twitter)",
+      "url": "https://twitter.com/mayuru_24"
+    },
+    {
+      "background": "#000000",
+      "color": "#FFFFFF",
+      "name": "Sub X (Twitter)",
+      "url": "https://twitter.com/mayuru_sub"
+    },
+    {
+      "background": "#ff2500",
+      "color": "#FFFFFF",
+      "name": "まゆる YouTube",
+      "url": "https://www.youtube.com/@mayuru_24"
+    },
+    {
+      "background": "#ff2500",
+      "color": "#FFFFFF",
+      "name": "Sub YouTube",
+      "url": "https://www.youtube.com/@mayuru_ninjaninja"
+    },
+    {
+      "background": "#0280fc",
+      "color": "#FFFFFF",
+      "name": "Twitcasting",
+      "url": "https://twitcasting.tv/mayuru_24"
+    },
+    {
+      "background": "#f300fd",
+      "color": "#FFFFFF",
+      "name": "Instagram",
+      "url": "https://www.instagram.com/mayuru__24/"
+    },
+    {
+      "background": "#000000",
+      "color": "#FFFFFF",
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@mayuru__24"
+    },
+    {
+      "background": "#f5e1df",
+      "color": "#000000",
+      "name": "niconico",
+      "url": "https://nico.ms/mylist/71219831?ref=sp_other"
+    },
+    {
+      "background": "#f3969a",
+      "color": "#FFFFFF",
+      "name": "マシュマロ/Marshmallow",
+      "url": "https://marshmallow-qa.com/mayuru"
+    },
+    {
+      "background": "#ff2500",
+      "color": "#FFFFFF",
+      "name": "Official Web Shop",
+      "url": "https://mayuru.booth.pm/"
+    },
+    {
+      "background": "#f56600",
+      "color": "#FFFFFF",
+      "name": "Amazon ほしい物リスト",
+      "url": "https://www.amazon.co.jp/hz/wishlist/ls/C67URRWW182?ref_=wl_share"
+    }
+  ],
+  "footer": {
+    "author": [
+      {
+        "name": "KM",
+        "url": "https://twitter.com/nishinokm"
+      }
+    ],
+    "info": [
+      ""
+    ],
+    "githubUrl": "https://github.com/chenteddy/"
+  },
+  "console": {
+    "text": "MAYURU",
+    "size": "24px",
+    "color": "white",
+    "img": "",
+    "imgWidth": "100%",
+    "imgHeight": "56%"
+  },
+  "mediaSession": "MYR_BIG.jpg",
+  "CDN": ""
+}
