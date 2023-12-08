@@ -10,6 +10,7 @@ process.env.VUE_APP_LAST_UPDATE = Date.now()
  */
 module.exports = {
   productionSourceMap: false,
+  filenameHashing: false,
   css: {
     loaderOptions: {
       stylus: {
@@ -45,7 +46,9 @@ module.exports = {
             }
           }
         }
-      }
+      },
+      
     }
-  }
+  },
+  publicPath: './mayuru_button_web/'
 }

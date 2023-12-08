@@ -1,8 +1,9 @@
 {
   "name": "mayuru-button",
+  "homepage": "https://chenteddy.github.io/myr_web2",
   "version": "1.0.0",
   "private": true,
-  "author": "blacktunes",
+  "author": "km",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

@@ -152,7 +152,7 @@ const createPlayer = (btnList: { [name: string]: any }) => {
           title: t('voice.' + voice.name),
           artist: t(INFO_I18N.fullName),
           album: t(INFO_I18N.title),
-          artwork: MEDIA ? [{ src: `/img/${MEDIA}`, sizes: '128x128' }] : []
+          artwork: MEDIA ? [{ src: `./img/${MEDIA}`, sizes: '128x128' }] : []
         }
         navigator.mediaSession.metadata = new window.MediaMetadata(meta)
         navigator.mediaSession.playbackState = 'playing'
@@ -185,7 +185,7 @@ const createPlayer = (btnList: { [name: string]: any }) => {
     playerList.get(key)!.audio.play()
     playerList.get(key)!.audio.onerror = () => {
       if (CDN && playerList.get(key)!.audio.src.startsWith(CDN)) {
-        playerList.get(key)!.audio.src = `voices/${voice.path}`
+        playerList.get(key)!.audio.src = `./voices/${voice.path}`
         playerList.get(key)!.audio.play()
       } else {
         playSetting.loading = false
@@ -396,11 +396,11 @@ const createPlayer = (btnList: { [name: string]: any }) => {
    * 返回需要显示的表情包url
    */
   const getPicUrl = (usePicture?: Translate) => {
-    return usePicture && Boolean(usePicture[locale.value]) ? `/voices/img/${usePicture[locale.value]}` : undefined
+    return usePicture && Boolean(usePicture[locale.value]) ? `./voices/img/${usePicture[locale.value]}` : undefined
   }
 
   const getDownloadUrl = (url: string) => {
-    return process.env.NODE_ENV === 'production' && CDN ? `${CDN}/${url}` : `voices/${url}`
+    return process.env.NODE_ENV === 'production' && CDN ? `${CDN}/${url}` : `./voices/${url}`
   }
 
   /**
