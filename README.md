@@ -1,5 +1,7 @@
 # 语音按钮模板
 
+https://chenteddy.github.io/mayuru_button_web/
+
 ### 需要修改的部分
 
 #### package.json
