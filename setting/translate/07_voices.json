@@ -1,0 +1,87 @@
+[
+  {
+    "name": "240305_balymusha",
+    "path": "240305_mayuru_balymusha.mp3",
+    "date": "2024-03-05",
+    "translate": {
+      "zh-TW": "叭哩叭哩姆蝦姆蝦 狗哭就！",
+      "en-US": "BARIBARI MUSHAMUSHA GOKUJIYO!",
+      "ja-JP": "バリバリムシャムシャ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "TC",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "240305_chibichaba",
+    "path": "240305_mayuru_chibichaba.mp3",
+    "date": "2024-03-05",
+    "translate": {
+      "zh-TW": "Chibi Chibi Chaba Chaba",
+      "en-US": "Chibi Chibi Chaba Chaba",
+      "ja-JP": "チビチビ　チャバチャバ"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "240305_fufu",
+    "path": "240305_mayuru_fufu.mp3",
+    "date": "2024-03-05",
+    "translate": {
+      "zh-TW": "哼哼(強)",
+      "en-US": "FUFU(strong)",
+      "ja-JP": "ふふ～(強)"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "fufu",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "240305_mmmmmmm",
+    "path": "240305_mmmmm.mp3",
+    "date": "2024-03-05",
+    "translate": {
+      "zh-TW": "mmmmmmmm",
+      "en-US": "mmmmmmmm",
+      "ja-JP": "mmmmmmmm"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  }
+  
+]

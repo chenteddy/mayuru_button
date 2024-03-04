@@ -51,4 +51,5 @@ module.exports = {
     }
   },
   publicPath: './mayuru_button_web/'
+  // publicPath: './'
 }

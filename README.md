@@ -184,7 +184,14 @@ $active-color = #93a3b3
 
 - 点击标题可显示**隐藏**
 - 可以的话，请不要删除默认友链
+- Build scripts => 
+```sh 
+# build
+yarn run build
 
+# server
+yarn run serve
+```
 ### LICENSE
 
 - 使用[voices-button-cli](https://github.com/blacktunes/voices-button-cli)创建的语音按钮
