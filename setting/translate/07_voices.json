@@ -82,6 +82,48 @@
       "time": "",
       "url": ""
     }
+  },
+  {
+    "name": "240328_mayuru_family_ring",
+    "path": "240328_mayuru_family_ring.mp3",
+    "date": "2024-03-28",
+    "translate": {
+      "zh-TW": "全家便利超商",
+      "en-US": "Taiwanese Family mart.",
+      "ja-JP": "台湾のファミリーマート"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "240328_km_dana.mp3",
+    "path": "240328_km_dana.mp3",
+    "date": "2024-03-28",
+    "translate": {
+      "zh-TW": "KM老公 (作者自肥用)",
+      "en-US": "KM旦那さん",
+      "ja-JP": "KM husband"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
   }
   
 ]
