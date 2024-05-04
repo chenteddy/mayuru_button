@@ -110,8 +110,29 @@
     "date": "2024-03-28",
     "translate": {
       "zh-TW": "KM老公 (作者自肥用)",
-      "en-US": "KM旦那さん",
-      "ja-JP": "KM husband"
+      "en-US": "KM husband",
+      "ja-JP": "KM旦那さん"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "240504_mayuru_every_laugh_die",
+    "path": "240504_mayuru_everyday_laugh.mp3",
+    "date": "2024-05-04",
+    "translate": {
+      "zh-TW": "まゆる everyday 笑死",
+      "en-US": "まゆる everyday 笑死",
+      "ja-JP": "まゆる everyday 笑死"
     },
     "usePicture": {
       "zh-TW": "myr400.jpg",
