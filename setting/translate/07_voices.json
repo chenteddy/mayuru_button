@@ -145,5 +145,26 @@
       "time": "",
       "url": ""
     }
+  },
+  {
+    "name": "240628_mayuru_unyaunya",
+    "path": "240628_mayuru_unyaunya.mp3",
+    "date": "2024-06-28",
+    "translate": {
+      "zh-TW": "嗚喵~嗚喵~",
+      "en-US": "unya~unya~",
+      "ja-JP": "うにゃ～うにゃ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
   }
 ]
