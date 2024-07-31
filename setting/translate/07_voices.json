@@ -166,5 +166,47 @@
       "time": "",
       "url": ""
     }
+  },
+  {
+    "name": "240731_mayuru_minion",
+    "path": "240731_mayuru_minion.mp3",
+    "date": "2024-07-31",
+    "translate": {
+      "zh-TW": "小小兵",
+      "en-US": "Minions",
+      "ja-JP": "ミニオン"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "240731_mayurucat",
+    "path": "240731_mayurucat.mp3",
+    "date": "2024-07-31",
+    "translate": {
+      "zh-TW": "我也想要成為貓咪~",
+      "en-US": "I want to be a cat too~",
+      "ja-JP": "私も猫なりたい～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400.jpg",
+      "en-US": "myr400.jpg",
+      "ja-JP": "myr400.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
   }
 ]
