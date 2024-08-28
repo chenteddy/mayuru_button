@@ -9,9 +9,9 @@
       "ja-JP": "バリバリムシャムシャ～"
     },
     "usePicture": {
-      "zh-TW": "myr400.jpg",
-      "en-US": "myr400.jpg",
-      "ja-JP": "myr400.jpg"
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
     },
     "category": "TC",
     "mark": {
@@ -30,9 +30,9 @@
       "ja-JP": "チビチビ　チャバチャバ"
     },
     "usePicture": {
-      "zh-TW": "myr400.jpg",
-      "en-US": "myr400.jpg",
-      "ja-JP": "myr400.jpg"
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
     },
     "category": "可愛聲音",
     "mark": {
@@ -51,9 +51,9 @@
       "ja-JP": "ふふ～(強)"
     },
     "usePicture": {
-      "zh-TW": "myr400.jpg",
-      "en-US": "myr400.jpg",
-      "ja-JP": "myr400.jpg"
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
     },
     "category": "fufu",
     "mark": {
@@ -72,9 +72,9 @@
       "ja-JP": "mmmmmmmm"
     },
     "usePicture": {
-      "zh-TW": "myr400.jpg",
-      "en-US": "myr400.jpg",
-      "ja-JP": "myr400.jpg"
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
     },
     "category": "可愛聲音",
     "mark": {
@@ -93,9 +93,9 @@
       "ja-JP": "台湾のファミリーマート"
     },
     "usePicture": {
-      "zh-TW": "myr400.jpg",
-      "en-US": "myr400.jpg",
-      "ja-JP": "myr400.jpg"
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
     },
     "category": "可愛聲音",
     "mark": {
@@ -114,9 +114,9 @@
       "ja-JP": "KM旦那さん"
     },
     "usePicture": {
-      "zh-TW": "myr400.jpg",
-      "en-US": "myr400.jpg",
-      "ja-JP": "myr400.jpg"
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
     },
     "category": "短句",
     "mark": {
@@ -135,9 +135,9 @@
       "ja-JP": "まゆる everyday 笑死"
     },
     "usePicture": {
-      "zh-TW": "myr400.jpg",
-      "en-US": "myr400.jpg",
-      "ja-JP": "myr400.jpg"
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
     },
     "category": "短句",
     "mark": {
@@ -156,9 +156,9 @@
       "ja-JP": "うにゃ～うにゃ～"
     },
     "usePicture": {
-      "zh-TW": "myr400.jpg",
-      "en-US": "myr400.jpg",
-      "ja-JP": "myr400.jpg"
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
     },
     "category": "可愛聲音",
     "mark": {
@@ -177,9 +177,9 @@
       "ja-JP": "ミニオン"
     },
     "usePicture": {
-      "zh-TW": "myr400.jpg",
-      "en-US": "myr400.jpg",
-      "ja-JP": "myr400.jpg"
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
     },
     "category": "可愛聲音",
     "mark": {
@@ -193,14 +193,77 @@
     "path": "240731_mayurucat.mp3",
     "date": "2024-07-31",
     "translate": {
-      "zh-TW": "我也想要成為貓咪~",
-      "en-US": "I want to be a cat too~",
-      "ja-JP": "私も猫なりたい～"
+      "zh-TW": "我也想要成為貓咪～喵喵！",
+      "en-US": "I want to be a cat too~ nyanya~",
+      "ja-JP": "私も猫になりたい～にゃにゃ！"
     },
     "usePicture": {
-      "zh-TW": "myr400.jpg",
-      "en-US": "myr400.jpg",
-      "ja-JP": "myr400.jpg"
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "240828_baka",
+    "path": "240828_baka.mp3",
+    "date": "2024-08-28",
+    "translate": {
+      "zh-TW": "笨蛋...",
+      "en-US": "Baka...",
+      "ja-JP": "ばか..."
+    },
+    "usePicture": {
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "240828_daisukidayo",
+    "path": "240828_daisukidayo.mp3",
+    "date": "2024-08-28",
+    "translate": {
+      "zh-TW": "最喜歡你了～",
+      "en-US": "I love you~~",
+      "ja-JP": "大好きだよ～"
+    },
+    "usePicture": {
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
+    },
+    "category": "短句",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "240828_iampizza",
+    "path": "240828_iampizza.mp3",
+    "date": "2024-08-28",
+    "translate": {
+      "zh-TW": "I am pizza!",
+      "en-US": "I am pizza!",
+      "ja-JP": "I am pizza!"
+    },
+    "usePicture": {
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
     },
     "category": "短句",
     "mark": {
