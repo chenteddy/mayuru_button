@@ -271,5 +271,26 @@
       "time": "",
       "url": ""
     }
+  },
+  {
+    "name": "241024_baka",
+    "path": "241024_baka.mp3",
+    "date": "2024-10-24",
+    "translate": {
+      "zh-TW": "笨蛋！",
+      "en-US": "Baka！",
+      "ja-JP": "ばか！"
+    },
+    "usePicture": {
+      "zh-TW": "myr400n.jpg",
+      "en-US": "myr400n.jpg",
+      "ja-JP": "myr400n.jpg"
+    },
+    "category": "可愛聲音",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
   }
 ]
